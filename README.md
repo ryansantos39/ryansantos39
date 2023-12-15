@@ -3,7 +3,7 @@
 # Ryan Santos - Front-end Developer
 
 <!-- Breve Descrição -->
-<p align="center">Sou apaixonado por criar experiências incríveis para usuários, focado no desenvolvimento front-end. Utilizo tecnologias modernas como ReactTS para construir interfaces intuitivas e responsivas. Estou sempre buscando aprender e aprimorar minhas habilidades no mundo do desenvolvimento web.</p>
+<p align="center">Sou apaixonado por criar experiências incríveis para usuários, focado no desenvolvimento front-end. Utilizo tecnologias modernas como React para construir interfaces intuitivas e responsivas. Além disso, tenho experiência em SQL para interações com bancos de dados. Estou sempre buscando aprender e aprimorar minhas habilidades no mundo do desenvolvimento web.</p>
 
 <!-- Estatísticas GitHub -->
 <div align="center" style="margin-bottom:100px">
@@ -18,15 +18,14 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-<!-- Adicione mais tecnologias conforme necessário -->
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
+
 
 #### Ferramentas e Frameworks:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-
-
-<!-- Adicione mais ferramentas conforme necessário -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -35,10 +34,10 @@
 ## Contatos
 
 <div> 
-    <a href="[https://www.instagram.com/rafa.alexandrino](https://www.instagram.com/ryan_santos39/?igshid=YzVkODRmOTdmMw%3D%3D&utm_source=qr)" target="_blank">
+    <a href="https://www.instagram.com/ryan_santos39/?igshid=YzVkODRmOTdmMw%3D%3D&utm_source=qr" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/rian-santos-4a9237205/ target="_blank">
+    <a href="https://www.linkedin.com/in/rian-santos-4a9237205/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
     </a> 
 </div>&nbsp;&nbsp;
