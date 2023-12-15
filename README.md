@@ -5,9 +5,6 @@
 <!-- Breve Descrição -->
 <p align="center">Sou apaixonado por criar experiências incríveis para usuários, focado no desenvolvimento front-end. Utilizo tecnologias modernas como React para construir interfaces intuitivas e responsivas. Além disso, tenho experiência em SQL para interações com bancos de dados. Estou sempre buscando aprender e aprimorar minhas habilidades no mundo do desenvolvimento web.</p>
 
-<!-- Estatísticas GitHub --><div align="center" style="margin-bottom:100px">
-    <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ryansantos39&theme=radical&mode=weekly" />
-    <img width="40%" align="center" src="https://github-readme-stats-git-main-ryansantos39.vercel.app/api/top-langs/?username=ryansantos39&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 <!-- Habilidades -->
