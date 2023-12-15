@@ -25,6 +25,7 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
+
 <!-- Adicione mais ferramentas conforme necessário -->
 
 &nbsp;
@@ -39,9 +40,6 @@
     </a>
     <a href="https://www.linkedin.com/in/rian-santos-4a9237205/ target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
-    </a> 
-    <a href="https://medium.com/@ryansantos39" target="_blank">
-        <img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank">
     </a> 
 </div>&nbsp;&nbsp;
 
