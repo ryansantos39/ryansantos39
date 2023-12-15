@@ -2,9 +2,6 @@
 <!-- Título do Projeto -->
 # Ryan Santos - Front-end Developer
 
-<!-- Imagem de Capa -->
-<img align="center" width="100%" src="https://github.com/ryansantos39/ryansantos39/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-
 <!-- Breve Descrição -->
 <p align="center">Sou apaixonado por criar experiências incríveis para usuários, focado no desenvolvimento front-end. Utilizo tecnologias modernas como ReactTS para construir interfaces intuitivas e responsivas. Estou sempre buscando aprender e aprimorar minhas habilidades no mundo do desenvolvimento web.</p>
 
@@ -27,7 +24,7 @@
 #### Ferramentas e Frameworks:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
+
 <!-- Adicione mais ferramentas conforme necessário -->
 
 &nbsp;
@@ -37,13 +34,10 @@
 ## Contatos
 
 <div> 
-    <a href="https://www.instagram.com/rafa.alexandrino" target="_blank">
+    <a href="[https://www.instagram.com/rafa.alexandrino](https://www.instagram.com/ryan_santos39/?igshid=YzVkODRmOTdmMw%3D%3D&utm_source=qr)" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="mailto:contato.ryansantos39@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank">
+    <a href="https://www.linkedin.com/in/rian-santos-4a9237205/ target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
     </a> 
     <a href="https://medium.com/@ryansantos39" target="_blank">
