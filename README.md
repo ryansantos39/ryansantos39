@@ -5,8 +5,7 @@
 <!-- Breve Descrição -->
 <p align="center">Sou apaixonado por criar experiências incríveis para usuários, focado no desenvolvimento front-end. Utilizo tecnologias modernas como React para construir interfaces intuitivas e responsivas. Além disso, tenho experiência em SQL para interações com bancos de dados. Estou sempre buscando aprender e aprimorar minhas habilidades no mundo do desenvolvimento web.</p>
 
-<!-- Estatísticas GitHub -->
-<div align="center" style="margin-bottom:100px">
+<!-- Estatísticas GitHub --><div align="center" style="margin-bottom:100px">
     <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ryansantos39&theme=radical&mode=weekly" />
     <img width="40%" align="center" src="https://github-readme-stats-git-main-ryansantos39.vercel.app/api/top-langs/?username=ryansantos39&show_icons=true&theme=radical&layout=compact" />
 </div>
@@ -24,6 +23,9 @@
 #### Ferramentas e Frameworks:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![SQL Server Management Studio](https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
