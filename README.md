@@ -1,9 +1,9 @@
 
 <!-- Título do Projeto -->
-# Ryan Santos - Front-end Developer
+# Ryan Santos - DEV
 
 <!-- Breve Descrição -->
-<p align="center">Sou apaixonado por criar experiências incríveis para usuários, focado no desenvolvimento front-end. Utilizo tecnologias modernas como React para construir interfaces intuitivas e responsivas. Além disso, tenho experiência em SQL para interações com bancos de dados. Estou sempre buscando aprender e aprimorar minhas habilidades no mundo do desenvolvimento web.</p>
+<p align="center"> Como desenvolvedor back-end, concentro-me em criar sistemas sólidos e eficientes, utilizando JavaScript para construir APIs escaláveis. Com experiência em SQL, asseguro interações eficazes com bancos de dados. Estou continuamente aprendendo e aprimorando minhas habilidades para oferecer soluções inovadoras no desenvolvimento web..</p>
 
 </div>
 
