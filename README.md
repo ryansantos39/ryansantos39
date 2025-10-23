@@ -3,7 +3,7 @@
 # Ryan Santos - DEV
 
 <!-- Breve Descrição -->
-<p align="center"> Como desenvolvedor back-end, concentro-me em criar sistemas sólidos e eficientes, utilizando JavaScript para construir APIs escaláveis. Com experiência em SQL, asseguro interações eficazes com bancos de dados. Estou continuamente aprendendo e aprimorando minhas habilidades para oferecer soluções inovadoras no desenvolvimento web..</p>
+<p align="center"> * ..</p>
 
 </div>
 
