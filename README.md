@@ -3,7 +3,7 @@
 # Ryan Santos - DEV
 
 <!-- Breve Descrição -->
-<p align="center"> * ..</p>
+<p align="center"></p>
 
 </div>
 
